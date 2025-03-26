@@ -19,4 +19,12 @@ Agradeço novamente ao Pablo Nunes Lopes, ao Victor Temple e à Larissa Cyganski
 
 ---
 
+![Renato no Painel 1](img/d-01.jpg)
+
+![Renato no Painel 2](img/d-02.jpg)
+
+![Postagem no LinkedIn](img/d-03.png)
+
+![Pablo apresentando](img/d-05.jpg)
+
 ![Banner do evento](img/banner.jpg)
