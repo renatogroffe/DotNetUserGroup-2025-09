@@ -7,6 +7,8 @@ Recebi o convite para participar do:
 
 Em que participei ao lado do **Pablo Nunes Lopes (Cloud Advocate - Microsoft)**, da **Maíra Wenzel (Senior Program Manager - Microsoft)**, da **Thamirys Gameiro (Microsoft MVP)** e da **Giulia Bordignon**, abordando novidades na plataforma .NET.
 
+Número de participantes: **20 pessoas**
+
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Link da transmissão: [**YouTube**](https://www.youtube.com/watch?v=NjMg1rR7sJw)
