@@ -15,7 +15,7 @@ Formulário utilizado para inscrições: [**Microsoft Reactor**](https://develop
 
 Local: **Microsoft Reactor - Rua Jaceru, 225 - Vila Gertrudes - São Paulo - SP - CEP: 04705-000**
 
-Agradeço novamente ao Pablo Nunes Lopes, ao Victor Temple e à Larissa Cyganski pela oportunidade e todo o apoio para que eu participasse de mais um evento no **Microsoft Reactor** em **São Paulo-SP**.
+Agradeço novamente ao **Pablo Nunes Lopes**, ao **Victor Temple** e à **Larissa Cyganski** pela oportunidade e todo o apoio para que eu participasse de mais um evento no **Microsoft Reactor** em **São Paulo-SP**.
 
 ---
 
