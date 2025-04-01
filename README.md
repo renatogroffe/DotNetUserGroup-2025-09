@@ -5,6 +5,8 @@ Recebi o convite para participar do:
 
 **Painel sobre novos recursos do .NET 9, C# 13, ASP.NET Core...**
 
+Technologies covered: **.NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure...**
+
 Em que participei ao lado do **Pablo Nunes Lopes (Cloud Advocate - Microsoft)**, da **Maíra Wenzel (Senior Program Manager - Microsoft)**, da **Thamirys Gameiro (Microsoft MVP)** e da **Giulia Bordignon**, abordando novidades na plataforma .NET.
 
 Número de participantes: **20 pessoas**
